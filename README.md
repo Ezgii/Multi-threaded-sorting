@@ -2,7 +2,7 @@
 
 In this project, an array-sorting application is written, using two different methods: QuickSort and MergeSort.
 
-This application is implemented as both [single threaded](https://github.com/Ezgii/Multi-threaded-sorting/blob/main/SinglethreadedSorting.java) and [multi-threaded](https://github.com/Ezgii/Multi-threaded-sorting/blob/main/MultithreadSort.java), to see how multi-threading improves the speed.
+This application is implemented as both [single-threaded](https://github.com/Ezgii/Multi-threaded-sorting/blob/main/SinglethreadedSorting.java) and [multi-threaded](https://github.com/Ezgii/Multi-threaded-sorting/blob/main/MultithreadSort.java), to see how multi-threading improves the speed.
 
 ### Results
 
